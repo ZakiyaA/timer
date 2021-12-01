@@ -1,1 +1,1 @@
-# timer
+# spinner
